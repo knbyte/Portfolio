@@ -1,15 +1,15 @@
 ---
 title: 'My Own C Library'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: 'My first 42 assignmentc creating a C Library to use for my projects during my time at the school.'
 image:
     url: '/libftprojectimage.webp'
-    alt: 'GitHub wallpaper'
+    alt: 'Project Image'
 worksImage1:
     url: '/libftprojectimage1.webp'
-    alt: 'project description'
+    alt: 'Project Description'
 worksImage2:
     url: '/libftprojectimage2.webp'
-    alt: 'function list'
+    alt: 'Function List'
 platform: VSCode
 stack: C
 website: https://www.42adel.org.au/

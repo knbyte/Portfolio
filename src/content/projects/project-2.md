@@ -5,14 +5,14 @@ image:
     url: '/vimiternprojectimage.svg'
     alt: 'Project Image/Title'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+    url: '/vimtermprojectimagetr1.png'
+    alt: 'Pages 1-3'
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
+    url: '/vimtermprojectimagetr2.png'
+    alt: 'Pages 4-7'
 platform: Web
 stack: Vim, iTerm, OhMyZsh, Themes
-website: Please see PDF linked below!
+website: Please see PDF linked in the paragraph above!
 github: https://github.com/knbyte/42_Piscine/blob/main/Resources/ExtraResources/CustomisingVim&iTerm.pdf
 ---
 

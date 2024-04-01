@@ -2,13 +2,13 @@
 title: 'Kai Aydan Support Hub'
 description: 'A website containing resume templates I designed as well as providing guides showing other resources for job searching, housing and various other support information.'
 image:
-    url: '/GitHub.webp'
+    url: '/supporthubprojectimage.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/supporthubprojectimage1.png'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/supporthubprojectimage2.png'
     alt: 'second image of your project.'
 platform: Web
 stack: Vite, SvelteKit, Svelte, HTML, CSS, VisualStudioCode
