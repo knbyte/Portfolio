@@ -2,10 +2,10 @@
 title: 'My Own C Library'
 description: 'My first 42 assignmentc creating a C Library to use for my projects during my time at the school.'
 image:
-    url: '/libftprojectimage.webp'
+    url: '/libftimage.png'
     alt: 'Project Image'
 worksImage1:
-    url: '/libftprojectimage1.webp'
+    url: '/libftimage1.webp'
     alt: 'Project Description'
 worksImage2:
     url: '/libftprojectimage2.webp'

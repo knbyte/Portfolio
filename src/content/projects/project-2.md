@@ -2,7 +2,7 @@
 title: 'Guide to Customising iTerm2 & Vim'
 description: 'A resource to help explain the process of customimizing terminal and vim pages for usability and readability.'
 image:
-    url: '/vimiternprojectimage.svg'
+    url: '/vimtermimage.png'
     alt: 'Project Image/Title'
 worksImage1:
     url: '/vimtermprojectimagetr1.png'

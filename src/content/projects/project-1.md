@@ -2,7 +2,7 @@
 title: 'Kai Aydan Support Hub'
 description: 'A website containing resume templates I designed as well as providing guides showing other resources for job searching, housing and various other support information.'
 image:
-    url: '/supporthubprojectimage.png'
+    url: '/supporthubimage.png'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/supporthubprojectimage1.png'

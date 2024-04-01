@@ -2,7 +2,7 @@
 title: 'UniHack March 2024: B.E.R.T Buddy'
 description: 'For UniHack my team developed B.E.R.T, a chrome extenstion designed as a reminder to Breathe, Embrace, Relax, and Thrive.'
 image:
-    url: '/bertprojectimage.webp'
+    url: '/bertbuddyimage.png'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/designprocess.webp'
